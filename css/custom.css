@@ -4,6 +4,9 @@ font-family: 'Raleway', sans-serif;
 p, div {
 font-family: 'Lato', sans-serif;
 }
+.nav-header-text{
+font-family: 'Raleway', sans-serif;
+}
 .color-primary{
 background-color: #3557f6;
 }
